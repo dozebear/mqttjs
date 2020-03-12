@@ -71,7 +71,7 @@
   },
   "devDependencies": {
     "browserify": "^14.1.0",
-    "codecov": "^1.0.1",
+    "codecov": "^3.6.5",
     "istanbul": "^0.4.5",
     "mkdirp": "^0.5.1",
     "mocha": "^3.2.0",
